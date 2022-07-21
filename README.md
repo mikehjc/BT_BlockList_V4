@@ -5,6 +5,6 @@ Use it with pfblockerNG via pfsense
 
 Mostly xunlei & Bittorrent Media player
 
-Some of them were bad peer
-    -- peer who sent a lot of request but don't download or upload anything
-    -- peer with an unknown client
+Some of them were bad peer :
+peer who sent a lot of request but don't download or upload anything
+peer with an unknown client
